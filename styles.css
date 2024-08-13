@@ -1,0 +1,110 @@
+body {
+    color: white;
+    background: black;
+    font-family: "Platypi", serif;
+}
+
+.turma-da-monica {
+    border-bottom: solid 2px rgb(219, 15, 27);
+    padding: 20px;
+    font-size: 32px;
+    color: rgb(219, 15, 27);
+
+}
+
+.chamada {
+    background-color: rgb(255, 0, 0, 0.43);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+    border-bottom: solid 2px rgb(219, 15, 27);
+}
+
+.chamada-texto {
+    margin-right: 5%;
+}
+
+h1 {
+    font-size: 50px;
+
+}
+
+img {
+    height: 200px;
+
+}
+
+.categoria-videos {
+    overflow-x: auto;
+    gap: 20px;
+}
+
+.categoria {
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-bottom: 80px;
+}
+
+.categoria img {
+    opacity: 0.5;
+    height: 200px;
+}
+
+.categoria img:hover {
+    opacity: 1.0;
+    border: 1px solid green;
+}
+
+.categoria h2 {
+    color: rgb(219, 15, 27);
+}
+
+.turma-da-monica-toy {
+    border-bottom: solid 2px rgb(8, 231, 119);
+    padding: 20px;
+    font-size: 32px;
+    color: rgb(8, 231, 119);
+
+}
+
+.chamada2 {
+    background-color: rgb(8, 231, 119, 0.43);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+    border-bottom: solid 2px rgb(8, 231, 119);
+}
+
+.categoria-videos2 {
+    overflow-x: auto;
+    gap: 20px;
+}
+
+.categoria2 {
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-bottom: 80px;
+}
+
+.categoria2 img {
+    opacity: 0.5;
+    height: 200px;
+}
+
+.categoria2 img:hover {
+    opacity: 1.0;
+    border: 1px solid green;
+}
+
+.categoria2 h2 {
+    color: rgb(8, 231, 119);
+}
+
+.inicio {
+    padding-left: 40%;
+    padding-right: 40%;
+    padding-bottom: 50px;
+    padding-top: 50px;
+}
